@@ -1,0 +1,5 @@
+Flask==2.1.0
+Flask-SQLAlchemy==2.5.1
+Flask-mysqldb==1.0.1
+SQLAlchemy==1.4.36
+debugpy==1.6.0
